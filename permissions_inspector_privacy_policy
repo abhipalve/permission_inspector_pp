@@ -1,0 +1,331 @@
+PRIVACY POLICY
+
+Permissions Inspector
+
+Last Updated: June 2026
+
+1. Introduction
+
+Welcome to Permissions Inspector ("App", "Service", "we", "our", or "us").
+
+Permissions Inspector is an Android application designed to help users understand, inspect, monitor, and analyze permissions granted to applications installed on their devices. The App provides visibility into installed applications, their permissions, usage characteristics, and related privacy insights to assist users in making informed decisions regarding application privacy and security.
+
+We are committed to transparency and responsible handling of information. This Privacy Policy explains what information is accessed, how it is used, and the choices available to users.
+
+By downloading, installing, accessing, or using Permissions Inspector, you agree to the terms of this Privacy Policy.
+
+2. Information Accessed and Processed
+
+Permissions Inspector is designed to minimize data collection and primarily performs analysis directly on the user's device.
+
+2.1 Installed Applications Information
+
+To provide its core functionality, Permissions Inspector may access information about applications installed on your device, including:
+
+• Application names
+• Package names
+• Application icons
+• Application versions
+• Permission declarations
+• Granted permissions
+• Permission groups
+• Application metadata available through Android APIs
+• Application categories where available
+
+This information is used solely to provide application permission auditing, privacy analysis, risk indicators, and security-related insights.
+
+2.2 Usage Statistics Information
+
+If you voluntarily grant Android Usage Access permission, the App may access usage statistics provided by the Android operating system, including:
+
+• Application usage duration
+• Application launch frequency
+• Last usage timestamps
+• Foreground activity information
+• Aggregate application usage metrics
+
+The App does not access the content of applications, communications, documents, web activity, messages, photos, videos, passwords, or personal files.
+
+Usage statistics are used solely to:
+
+• Display application usage insights
+• Correlate application activity with permission exposure
+• Generate privacy-related reports
+• Assist users in evaluating application behavior
+
+2.3 Device Information
+
+The App may access limited device information including:
+
+• Device manufacturer
+• Device model
+• Android version
+• App version
+• Screen characteristics
+• Language settings
+
+This information is used to improve compatibility, performance, and reliability.
+
+2.4 Diagnostic Information
+
+The App may collect diagnostic information including:
+
+• Crash reports
+• Error logs
+• Performance metrics
+• Technical diagnostics
+
+This information helps improve application stability and performance.
+
+3. QUERY_ALL_PACKAGES Permission
+
+Permissions Inspector uses Android's QUERY_ALL_PACKAGES permission.
+
+This permission is essential to the core functionality of the App because the primary purpose of Permissions Inspector is to inspect and analyze applications installed on the device.
+
+The permission enables the App to:
+
+• Discover installed applications
+• Analyze application permissions
+• Generate permission reports
+• Provide application inventory analysis
+• Display security and privacy insights
+• Compare permissions across applications
+
+Without QUERY_ALL_PACKAGES permission, Permissions Inspector cannot provide comprehensive permission auditing functionality.
+
+Information obtained through this permission is used exclusively for the App's intended functionality as described in this Privacy Policy.
+
+4. PACKAGE_USAGE_STATS (Usage Access)
+
+Permissions Inspector may request Android Usage Access permission.
+
+Granting Usage Access is optional and requires explicit user approval through Android settings.
+
+When granted, the App may access usage statistics exposed by Android for the sole purpose of:
+
+• Displaying application activity insights
+• Enhancing privacy analysis
+• Supporting permission risk assessments
+• Providing user-requested usage reports
+
+Permissions Inspector does not record keystrokes, capture screen contents, monitor communications, or access private content through Usage Access permission.
+
+5. Information We Do Not Collect
+
+Permissions Inspector does not intentionally collect:
+
+• Passwords
+• Emails
+• Text messages
+• Contact lists
+• Phone call content
+• Photos
+• Videos
+• Audio recordings
+• Personal documents
+• Banking information
+• Payment card information
+• Login credentials
+
+The App does not access the content contained within third-party applications.
+
+6. How Information Is Used
+
+Information accessed by Permissions Inspector may be used to:
+
+• Analyze installed applications
+• Display permission information
+• Generate permission reports
+• Provide privacy insights
+• Display security indicators
+• Generate application risk assessments
+• Improve App functionality
+• Improve App performance
+• Troubleshoot technical issues
+• Conduct analytics and research
+• Support customer inquiries
+• Maintain service reliability
+
+7. Analytics
+
+The App may use analytics services to understand:
+
+• Feature usage
+• App performance
+• User engagement
+• Stability metrics
+
+Analytics data is generally aggregated and may not directly identify individual users.
+
+8. Advertising
+
+Permissions Inspector may display advertisements.
+
+Advertising partners may collect information including:
+
+• Advertising identifiers
+• Device identifiers
+• Ad interaction information
+• Approximate location derived from network information
+
+Advertising providers operate under their own privacy policies and may use collected information to provide and measure advertisements.
+
+9. Third-Party Services
+
+The App may use third-party service providers including:
+
+• Google Play Services
+• Firebase Analytics
+• Firebase Crashlytics
+• Google AdMob
+• Google Cloud Services
+• Other infrastructure and analytics providers
+
+These providers may process information according to their own privacy policies.
+
+10. Data Sharing
+
+We do not sell personal information.
+
+Information may be shared:
+
+• With service providers assisting operation of the App
+• With analytics providers
+• With crash reporting providers
+• With advertising providers
+• To comply with legal obligations
+• To protect legal rights and security
+• During mergers, acquisitions, or business transfers
+
+Aggregated, anonymized, or de-identified information may be shared without restriction.
+
+11. Data Retention
+
+Information is retained only as long as reasonably necessary for:
+
+• Providing services
+• Improving functionality
+• Troubleshooting issues
+• Complying with legal obligations
+• Enforcing agreements
+
+Retention periods vary depending on the type of information involved.
+
+12. Security
+
+We implement reasonable technical and organizational safeguards designed to protect information from:
+
+• Unauthorized access
+• Disclosure
+• Alteration
+• Loss
+• Misuse
+
+However, no security system can guarantee absolute protection.
+
+13. User Control
+
+Users may:
+
+• Revoke permissions through Android settings
+• Disable Usage Access permission
+• Restrict notifications
+• Uninstall the App at any time
+
+Revoking certain permissions may limit App functionality.
+
+14. Children's Privacy
+
+Permissions Inspector is not intended for children under the age of 13 or the minimum age required by applicable law.
+
+We do not knowingly collect personal information from children.
+
+If such information is discovered, reasonable efforts will be made to remove it.
+
+15. International Data Transfers
+
+Information may be processed on servers located in countries outside your country of residence.
+
+Where applicable, reasonable safeguards are implemented to protect transferred information.
+
+16. No Security Guarantee
+
+Permissions Inspector is an informational and analytical tool.
+
+The App:
+
+• Is not antivirus software
+• Does not guarantee malware detection
+• Does not guarantee threat prevention
+• Does not certify application safety
+• Does not guarantee privacy protection
+
+All recommendations, scores, alerts, warnings, and risk indicators are provided for informational purposes only.
+
+Users should independently evaluate information before taking action.
+
+17. Disclaimer of Warranties
+
+Permissions Inspector is provided on an "AS IS" and "AS AVAILABLE" basis.
+
+To the fullest extent permitted by law, we disclaim all warranties, including:
+
+• Merchantability
+• Fitness for a particular purpose
+• Accuracy
+• Reliability
+• Availability
+• Non-infringement
+
+We do not guarantee uninterrupted or error-free operation.
+
+18. Limitation of Liability
+
+To the maximum extent permitted by law, Permissions Inspector, its developer, affiliates, licensors, contractors, partners, and service providers shall not be liable for:
+
+• Direct damages
+• Indirect damages
+• Incidental damages
+• Consequential damages
+• Loss of profits
+• Loss of data
+• Device issues
+• Security incidents
+• Privacy breaches caused by third-party applications
+
+Your use of the App is entirely at your own risk.
+
+19. Indemnification
+
+You agree to indemnify and hold harmless Permissions Inspector and its affiliates from claims, liabilities, losses, damages, costs, and expenses arising from:
+
+• Your use of the App
+• Violation of applicable laws
+• Violation of this Privacy Policy
+• Misuse of App functionality
+
+20. Changes to This Privacy Policy
+
+We may modify this Privacy Policy at any time.
+
+Changes become effective upon publication of the updated version.
+
+Continued use of the App after updates constitutes acceptance of the revised Privacy Policy.
+
+21. Contact Us
+
+If you have questions regarding this Privacy Policy, please contact:
+
+Developer: Permissions Inspector
+
+Email: abhipofficial@zohomail.in
+
+22. Consent
+
+By downloading, installing, or using Permissions Inspector, you acknowledge that:
+
+• You have read and understood this Privacy Policy.
+• You consent to the practices described herein.
+• You understand the purpose of QUERY_ALL_PACKAGES and Usage Access permissions.
+• You agree to use the App at your own discretion and risk.
